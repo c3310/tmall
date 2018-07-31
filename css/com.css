@@ -243,21 +243,12 @@
 		border-top: 1px solid #E5E5E5;
 }
 
-.header > .search .logo img{
-	display: block;
-	width: 290px;
-	height: 130px;
-}
 .header > .search .search{
 	width: 625px;
-	margin-left: 90px;
+	margin-left: 290px;
 	margin-top:38px;
 }
-.header > .search .search{
-	width: 625px;
-	margin-left: 90px;
 
-}
 .header > .search .search form input{
 	float: left;
 }
